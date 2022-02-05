@@ -1,7 +1,5 @@
 package abstract_factory;
 
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane.SystemMenuBar;
-
 public class HomeLoan implements Account {
     @Override
     public void getServiceInfo() {
