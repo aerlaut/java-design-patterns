@@ -1,7 +1,6 @@
 package abstract_factory;
 
 import java.util.Scanner;
-import java.util.Arrays;
 
 public class Main {
 
